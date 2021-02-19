@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlueShop.Common\BlueShop.Common.csproj" />
+    <ProjectReference Include="..\BlueShop.Data\BlueShop.Data.csproj" />
+    <ProjectReference Include="..\BlueShop.Model\BlueShop.Model.csproj" />
+  </ItemGroup>
+
+</Project>
